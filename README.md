@@ -9,4 +9,4 @@ Requires:
 
 TODO:
 1. Add documentation
-2. Implement Secret Sharing for even values of d
+2. Generalise to work with any CDS and any SS protocols.
